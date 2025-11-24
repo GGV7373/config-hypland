@@ -1,0 +1,4 @@
+# Allow relevent configs
+!hypr/
+!kitty/
+!waybar/

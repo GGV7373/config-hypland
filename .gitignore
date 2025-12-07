@@ -1,7 +1,10 @@
+# Ignore evrything by default
+*
+
 # Allow relevent configs
 !hypr/
 !kitty/
 !waybar/
-
-# Ignore evrything by default
-*
+!setup.zsh
+!README.md
+!.gitignore

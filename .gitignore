@@ -1,7 +1,7 @@
-# Ignore evrything by default
+# Ignore everything by default
 *
 
-# Allow relevent configs
+# Allow relevant configs
 !hypr/
 !kitty/
 !waybar/
